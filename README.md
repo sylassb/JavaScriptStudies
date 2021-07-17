@@ -8,4 +8,4 @@ Project3 is a counting machine, where you can choose the starting and finishing 
 
 Project4 is about a simple multiplication table where you can choose the number and it will show its multiplication table.
 
-Project5 is a number analyzer where you can put a number or a sequence of numbers and its gonna show you how many number you put, the sum  and the average of the numbers, the biggest and the smallest number.
+Project5 is a number analyzer where you can put a number or a sequence of numbers and its gonna show you how many numbers you have put, the sum  and the average of the numbers, the biggest and the smallest number.
